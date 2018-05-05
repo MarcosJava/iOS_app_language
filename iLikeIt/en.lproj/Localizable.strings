@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  iLikeIt
+
+  Created by Marcos Felipe Souza on 05/05/2018.
+  Copyright © 2018 Razeware. All rights reserved.
+*/
+"You have sold 1000 apps in %d months" = "You have sold %@ apps in %d months";
+"You like?" = "You like?";
+"imageName" = "iLikeIt";
